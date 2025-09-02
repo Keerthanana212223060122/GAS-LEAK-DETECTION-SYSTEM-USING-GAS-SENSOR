@@ -113,7 +113,8 @@ void loop() {
 ```
 ## Output:
 
-<img width="1696" height="560" alt="Screenshot 2025-09-02 143244" src="https://github.com/user-attachments/assets/bab5abb7-929a-48bc-a52b-0ae107fff33e" />
+<img width="1624" height="564" alt="Screenshot 2025-09-02 143022" src="https://github.com/user-attachments/assets/430a1900-cb73-4aa8-8607-3fe7d32d62b0" />
+
 
 ## Result:
 
