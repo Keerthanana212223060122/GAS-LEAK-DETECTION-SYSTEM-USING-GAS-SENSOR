@@ -11,9 +11,8 @@ Gas sensor (MQ-2)
 	
 ## Circuit Diagram:
 
-<img width="997" height="595" alt="Screenshot 2025-09-02 142255" src="https://github.com/user-attachments/assets/38b6ded7-91d4-4615-879e-abd26a61d2b4" />
+<img width="981" height="606" alt="Screenshot 2025-09-02 143133" src="https://github.com/user-attachments/assets/2948c1bf-a4ae-4742-bf04-076a4d3d00ce" />
 
-## Theory :
  The Arduino Uno is powered by the ATmega328P, an 8-bit microcontroller that runs at 16 MHz. It has 32 KB of flash memory, 2 KB of SRAM, and 1 KB of EEPROM. The board 
 has 14 digital I/O pins (of which 6 can be used as PWM outputs) and 6 analog input pins. These pins allow the board to interface with various sensors, actuators, and other devices.
 The Arduino Uno can be powered via a USB connection or an external power supply. The board has a built-in voltage regulator to manage power from 7 to 12 volts.
@@ -114,7 +113,7 @@ void loop() {
 ```
 ## Output:
 
-<img width="1529" height="552" alt="Screenshot 2025-09-02 142456" src="https://github.com/user-attachments/assets/b9473bac-6db6-46fd-b960-15648f1d876d" />
+<img width="1696" height="560" alt="Screenshot 2025-09-02 143244" src="https://github.com/user-attachments/assets/bab5abb7-929a-48bc-a52b-0ae107fff33e" />
 
 ## Result:
 
